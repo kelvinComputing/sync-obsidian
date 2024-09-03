@@ -3,7 +3,7 @@
 		Go to GitHub and create a new repository (can be public or private).
 - Clone the Repository to your Computer:
 		Open the terminal and clone your repository with: git clone URL(URL of your repository)
--Setting up Obsidian: 
+- Setting up Obsidian: 
 		Open Obsidian and select the cloned folder as your vault.
 - Initialize Git (if necessary):
 		If using an existing vault, start Git in the folder: -git init -git remote add origin URL(URL of your repository)
