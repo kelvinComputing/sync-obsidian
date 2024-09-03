@@ -11,11 +11,10 @@
             "id": "1a7b449feed51d42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,15 +150,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a7b449feed51d42",
+  "active": "051b9d9a389f64b0",
   "lastOpenFiles": [
+    "Archives/Poyectos completados",
+    "Resources/Articulos",
+    "Resources/Libros",
+    "Areas/Trabajo",
+    "Areas/Salud",
+    "Areas/Salud/Trabajo",
+    "Projects/proyecto2",
+    "Sin nombre",
+    "README.md",
+    "Projects/proyecto1",
     "Archives",
     "Resources",
-    "Areas",
-    "Projects",
     "ejemplo.md",
-    "README.md",
-    "hola.txt",
     "Sin título.md"
   ]
 }
