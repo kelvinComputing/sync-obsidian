@@ -1,17 +1,17 @@
-## Como conectar Obsidian con un Repositorio en GitHub
-- Crear un repositorio en GitHub:
-		Ve a GitHub y crea un repositorio nuevo (puede ser público o privado ).
-- Clonar el Repositorio en tu Computadora:
-		Abre la terminal y clona tu repositorio con : git clone URL(URL De tu repositorio)
-- Configurar Obsidian: 
-		Abrir Obsidian y  seleccionar la carpeta clonada como tu vault.
-- Inicilalizar Git (si es necesario):
-		Si se usa una vault existente, iniciar Git en la carpeta: -git init       -git remote add origin URL(URL de tu repositorio)
-- Organizar tus carpetas usando el metodo PARA:
-		Organiza tu vault de Obsidian creando carpetas puedes ser desde Obsidian o Visual Studio Code siguiendo esta estructura: (Projects, Areas, Resources, Archives)
-- Conectar Visual Studio Code para Editar Archivos de Obsidian: 
-		Descarga e instala Visual Studio Code.
-		Abrir Visual Studio Code ir a la sección de extensiones y busca e instala la extensión Obsidian.md
-		Abre la carpeta de tu vault en VSCode para editar tus archivos .md directamente desde ahí
-- ¡Eso es todo! Ahora puedes editar tus notas de Obsidian directamente desde VSCode.
-- Puedes usar plugins en Obsidian, como "Obsidian Git", para automatizar el proceso de commit y push directamente desde la interfaz de Obsidian.
+## How to connect Obsidian to a GitHub repository
+- Create a repository on GitHub:
+		Go to GitHub and create a new repository (can be public or private).
+- Clone the Repository to your Computer:
+		Open the terminal and clone your repository with: git clone URL(URL of your repository)
+-Setting up Obsidian: 
+		Open Obsidian and select the cloned folder as your vault.
+- Initialize Git (if necessary):
+		If using an existing vault, start Git in the folder: -git init -git remote add origin URL(URL of your repository)
+- Organize your folders using the PARA method:
+		Organize your Obsidian vault by creating folders, either from Obsidian or Visual Studio Code, following this structure: (Projects, Areas, Resources, Archives)
+- Connect Visual Studio Code to Edit Obsidian Files:
+		Download and install Visual Studio Code.
+		Open Visual Studio Code, go to the extensions section and search for and install the Obsidian.md extension
+		Open your vault folder in VSCode to edit your .md files directly from there
+- That’s it! You can now edit your Obsidian notes directly from VSCode.
+- You can use plugins in Obsidian, such as "Obsidian Git", to automate the commit and push process directly from the Obsidian interface.
