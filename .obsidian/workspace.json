@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfceb9ded5d7d9af",
+        "id": "6a35dfa1cbe37b0f",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7b449feed51d42",
+            "id": "83bf1148c1cd860d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Archives/proyecto finalizado.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Archives/proyecto finalizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Archives/proyecto finalizado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Archives/proyecto finalizado.md"
               }
             }
           },
@@ -155,15 +155,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a7b449feed51d42",
+  "active": "051b9d9a389f64b0",
   "lastOpenFiles": [
-    "Archives",
-    "Resources",
-    "Areas",
-    "Projects",
-    "ejemplo.md",
+    "clear",
+    "Resources/libro.md",
+    "Projects/proyecto1.md",
+    "Areas/trabajo.md",
+    "Archives/proyecto finalizado.md",
+    "Archives/Poyectos completados",
+    "Resources/Articulos",
+    "Resources/Libros",
+    "Areas/Trabajo",
+    "Areas/Salud",
+    "Areas/Salud/Trabajo",
+    "Projects/proyecto2",
+    "Sin nombre",
     "README.md",
-    "hola.txt",
+    "Projects/proyecto1",
+    "Archives",
+    "ejemplo.md",
     "Sin título.md"
   ]
 }
